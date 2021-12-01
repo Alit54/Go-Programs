@@ -600,7 +600,7 @@ func drawing(n int) {
 			}
 			drawing(1)
 		}
-	case 10:
+	case 10, 11:
 		{
 			for j := 0; j < 3; j++ {
 				fmt.Print(" ")
